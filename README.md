@@ -1,16 +1,13 @@
 ## Hi there 👋
-
-<!--
-**Sakshi-Geeta/Sakshi-Geeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+🌱 Currently pursuing Electronics and Communication
+<br>
+🤖 Interested in robotics, and coding.
+<br>
+🤝 Open to collaboration on exciting new projects.
+<br>
+💬 Let's connect and innovate together!
+<br>
+📫 How to reach me: https://www.linkedin.com/in/sakshi-geeta 
+<br>
+⚡ Fun fact: I'm a closet poet and love to read books
